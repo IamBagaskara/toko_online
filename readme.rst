@@ -2,11 +2,11 @@
 Tugas Akhir Pemograman Aplikasi Web kelas TKOM-B.
 ###################
 
-################### Ahmad Wildan F.M							- 185150300111044  ###################
-################### Bagaskara Oki Duwi Saputra		- 185150301111026 ###################
-################### Fajra Risky										- 185150300111037 ###################
-################### HERONIU BUDI RAHMANDA WIJAYA	- 185150300111034 ###################
-################### Ryzaldi Ananda Fabiana				- 185150307111025 ###################
+Ahmad Wildan F.M							- 185150300111044  ###################
+Bagaskara Oki Duwi Saputra		- 185150301111026 ###################
+Fajra Risky										- 185150300111037 ###################
+HERONIU BUDI RAHMANDA WIJAYA	- 185150300111034 ###################
+Ryzaldi Ananda Fabiana				- 185150307111025 ###################
 
 
 ###################
