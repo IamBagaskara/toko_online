@@ -1,6 +1,6 @@
 ## Tugas Akhir Pemograman Aplikasi Web kelas TKOM-B.
 
-**Nama Kelompok dan NIM :**
+**Nama Anngota dan NIM Kelompok :**
 * Ahmad Wildan F.M							- 185150300111044.
 * Bagaskara Oki Duwi Saputra		- 185150301111026.
 * Fajra Risky										- 185150300111037.
