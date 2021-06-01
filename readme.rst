@@ -19,4 +19,5 @@ Masukan Database toko_online.sql yang ada di folder database ke phpmyadmin.
 ###################
 Priview
 ###################
-!(https://user-images.githubusercontent.com/82685905/120268797-b45e5800-c2d0-11eb-95f0-c76d9ecfa6dd.PNG)
+1. Tampilan Halaman Login
+![Tampilan_Login](https://user-images.githubusercontent.com/82685905/120268966-1323d180-c2d1-11eb-8fea-083150e72ede.PNG)
