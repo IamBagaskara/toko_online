@@ -7,9 +7,9 @@
 * HERONIU BUDI RAHMANDA WIJAYA	- 185150300111034.
 * Ryzaldi Ananda Fabiana				- 185150307111025.
 
-# Catatan!.
+# Catatan.
 
-Jika nama folder berubah, ganti nama folder menjadi toko_online.
+Jika nama folder berubah, ganti nama foldernya menjadi toko_online.
 
 # Penginstallan.
 
