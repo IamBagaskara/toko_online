@@ -1,10 +1,10 @@
 ## Tugas Akhir Pemograman Aplikasi Web kelas TKOM-B.
 
-**Nama Anngota dan NIM Kelompok 5 :**
+**Nama Angota dan NIM Kelompok 5 :**
 * Ahmad Wildan F.M							- 185150300111044.
 * Bagaskara Oki Duwi Saputra		- 185150301111026.
 * Fajra Risky										- 185150300111037.
-* HERONIU BUDI RAHMANDA WIJAYA	- 185150300111034.
+* Heroniu Budi Rahmanda Wijaya	- 185150300111034.
 * Ryzaldi Ananda Fabiana				- 185150307111025.
 
 # Catatan.
